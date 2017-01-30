@@ -1,1 +1,4 @@
 dette er en test
+dette er en forbedreing gjort i atom
+
+System.out.printline("Hello World")
