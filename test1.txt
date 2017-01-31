@@ -2,3 +2,9 @@ dette er en test
 dette er en forbedreing gjort i atom
 
 System.out.printline("Hello World")
+
+enda en forandring gjort av Kim.
+
+private static main int point;
+
+point = 37;
